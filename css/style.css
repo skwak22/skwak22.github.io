@@ -8,7 +8,6 @@
 }
 
 body {
-	text-rendering: optimizeLegibility;
 	margin: 10px auto 200px;
 	width: 700px;
 }
@@ -72,4 +71,8 @@ a:hover {
 }
 a:visited {
 	color:black;
+}
+.bar {
+	margin:5px;
+	border: 1px solid #738EB6;
 }
