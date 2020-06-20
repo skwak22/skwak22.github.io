@@ -76,3 +76,6 @@ a:visited {
 	margin:5px;
 	border: 1px solid #738EB6;
 }
+.blue {
+	color:blue !important;
+}
