@@ -20,7 +20,7 @@ header {
 	float:top;
 	background-position: center;
 }
-header > nav {
+#bar {
 	float: right;
 	font-size: 16px;
 }
@@ -29,17 +29,19 @@ ul.ba {
 }
 .links {
 	text-align: center;
-	color: black;
+	color: #F2F2EF;
 	text-decoration: none;
 }
 .links:hover {
-	color: red;
+	color: #F2F2EF;
 }
 
 .circle {
 	border-radius: 50%;
 	width: 200px;
+	height: 193px;
 	border: 2px;
+	border-color:blue;
 }
 
 .center {
@@ -63,19 +65,31 @@ ul.ba {
 	font-family: Source Sans Pro;
 }
 a:link {
-	color:black;
+	color:blue;
 	text-decoration:none;
 }
 a:hover {
 	text-decoration: underline;
+	color: red;
 }
 a:visited {
-	color:black;
-}
+	color:black;}
 .bar {
 	margin:5px;
 	border: 1px solid #738EB6;
 }
 .blue {
 	color:blue !important;
+}
+
+.lineicons {
+	font-size: 36px;
+}
+
+.icon-flag {
+	color:grey;
+}
+
+.icon-flag:hover {
+	color:#738EB6;
 }
