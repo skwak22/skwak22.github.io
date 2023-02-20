@@ -9,7 +9,7 @@ import Contact from "./pages/Contact";
 
 export const App = () => {
   return (
-    <>
+    <body>
       <Nav />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -18,7 +18,7 @@ export const App = () => {
         <Route path="/contact" element={<Contact />} />
       </Routes>
       <Footer />
-    </>
+    </body>
   );
 };
 

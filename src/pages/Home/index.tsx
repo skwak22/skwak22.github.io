@@ -1,7 +1,6 @@
-
 export const Home = () => {
   return (
-    <body>
+    <>
       <div id="me" className="center">
         <a href="./about">
           {" "}
@@ -14,14 +13,14 @@ export const Home = () => {
       </div>
       <div id="description">
         Hello, and welcome to my website. My name is Sunghoon Kwak, and I am a
-        recent graduate of Amherst College. At Amherst, I studied Computer Science and Philosophy. 
+        recent graduate of Amherst College. At Amherst, I studied Computer
+        Science and Philosophy.
         <br />
         <br />
         I'm currently working as a Software Engineer at{" "}
-        <a href="https://www.angellist.com/"> AngelList </a> in NYC.
-        ✌🏼
+        <a href="https://www.angellist.com/"> AngelList </a> in NYC. ✌🏼
       </div>
-    </body>
+    </>
   );
 };
 
