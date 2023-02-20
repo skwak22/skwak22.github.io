@@ -9,7 +9,7 @@ export const Nav = () => {
           My Blog
         </a>
         {" "}/{" "}
-        <a className="navlink" href="./about">
+        <a className="navlink" href="./?/about">
           About Me
         </a>
         {" "}/{" "}
