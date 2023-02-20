@@ -1,0 +1,29 @@
+.column {
+  float: left;
+  width: 50%;
+  margin-bottom: 20px;
+}
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+.middle {
+  margin-top: 25px;
+}
+
+.first-column {
+  width: 35%;
+  padding-left: 10px;
+  float: left;
+}
+
+.second-column {
+  width: 60%;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  float: right;
+}
