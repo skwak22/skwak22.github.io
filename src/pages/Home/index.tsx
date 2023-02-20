@@ -14,7 +14,7 @@ export const Home = () => {
       </div>
       <div id="description">
         Hello, and welcome to my website. My name is Sunghoon Kwak, and I am a
-        recent graduate at Amherst College. At Amherst, I studied Computer Science and Philosophy. 
+        recent graduate of Amherst College. At Amherst, I studied Computer Science and Philosophy. 
         <br />
         <br />
         I'm currently working as a Software Engineer at{" "}
