@@ -5,15 +5,15 @@ export const Nav = () => {
         Sung Kwak
       </a>
       <span id="bar">
-        <a className="navlink" href="./blog">
+        <a className="navlink" href="./#/blog">
           My Blog
         </a>
         {" "}/{" "}
-        <a className="navlink" href="./about">
+        <a className="navlink" href="./#/about">
           About Me
         </a>
         {" "}/{" "}
-        <a className="navlink" href="./contact">
+        <a className="navlink" href="./#/contact">
           Contact Me
         </a>
       </span>
