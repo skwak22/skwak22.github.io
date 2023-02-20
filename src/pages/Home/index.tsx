@@ -3,7 +3,7 @@ export const Home = () => {
   return (
     <body>
       <div id="me" className="center">
-        <a href="./?/about">
+        <a href="./about">
           {" "}
           <img
             className="circle center"
