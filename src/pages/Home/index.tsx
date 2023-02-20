@@ -6,7 +6,7 @@ export const Home = () => {
           {" "}
           <img
             className="circle center"
-            src={require("../../assets/IMG_2915.png")}
+            src={require("../../assets/homepic.jpg")}
             alt="Sunghoon Kwak"
           />
         </a>
