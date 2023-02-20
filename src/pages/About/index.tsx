@@ -35,8 +35,8 @@ export const About = () => {
           <br />
           <br />
           Outside of my work, I am interested in
-          existential philosophy, increasing software accessibility, and
-          drumming. I am fluent in both English and Korean. 
+          existential philosophy, increasing software accessibility,
+          drumming, and bouldering. I'm fluent in both English and Korean. 
           <br />
         </div>
       </div>
